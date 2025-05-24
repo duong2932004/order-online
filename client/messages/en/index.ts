@@ -1,6 +1,0 @@
-export default {
-  HomePage: {
-    title: "Hello world!",
-    about: "Go to the about page",
-  },
-};
